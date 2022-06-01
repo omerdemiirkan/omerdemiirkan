@@ -12,4 +12,4 @@
 
 - 📫 How to find me: 
   - :pencil2: [E-mail](omerdemirkan12@gmail.com)
-  - :office: [LinkedIn](https://www.linkedin.com/feed/omerdemiirkan/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/omerdemiirkan/)
