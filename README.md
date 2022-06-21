@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/omerdemiirkan?logo=github&style=for
 <p align="center">
 <a href="https://linkedin.com/in/omerdemirkan"><img src="https://img.shields.io/badge/-omer%20demirkan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:omerdemirkan12@gmail.com"><img src="https://img.shields.io/badge/-omerdemirkan12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/omerdemiirkan"><img src="https://img.shields.io/badge/-@omerdemiirkan__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/omerdemiirkan"><img src="https://img.shields.io/badge/-@omerdemiirkan_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ### Badges
