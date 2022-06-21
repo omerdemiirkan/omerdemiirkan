@@ -37,6 +37,15 @@ src="https://img.shields.io/github/followers/omerdemiirkan?logo=github&style=for
 
 <p align="left"> <a href="https://www.github.com/omerdemiirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/omerdemiirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omerdemirkan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@omerdemiirkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
 
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/omerdemirkan"><img src="https://img.shields.io/badge/-omer%20demirkan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:omerdemirkan12@gmail.com"><img src="https://img.shields.io/badge/-omerdemirkan12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/omerdemiirkan"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
