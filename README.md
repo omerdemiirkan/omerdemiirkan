@@ -16,11 +16,11 @@
   - :pencil2: [E-mail]: omerdemirkan12@gmail.com
   - :office: [LinkedIn](https://www.linkedin.com/in/omerdemirkan/)
      
-     <br>
+     <br><br>
      <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div><br>
+</div><br><br>
 
  <a href="https://github.com/omerdemiirkan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omerdemiirkan&theme=codeSTACKr" /></a><a href="https://github.com/omerdemiirkan"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerdemiirkan&bg_color=0d1117&theme=algolia&text_color=FFFFFF&title_color=FFFFFF&hide_border=true&layout=compact&langs_count=10" /></a>
