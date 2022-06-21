@@ -42,21 +42,8 @@ src="https://img.shields.io/github/followers/omerdemiirkan?logo=github&style=for
 <b>My GitHub Stats</b>
 <p align="center">
 <a href="http://www.github.com/omerdemiirkan">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omerdemiirkan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="omerdemiirkan's GitHub stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omerdemiirkan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omerdemiirkan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omerdemiirkan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-<a href="http://www.github.com/omerdemiirkan"><img src="https://activity-graph.herokuapp.com/graph?username=omerdemiirkan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/omerdemiirkan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerdemiirkan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<br><br>
-     <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div><br><br>
